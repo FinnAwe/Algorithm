@@ -1,5 +1,5 @@
 # Algorithm-practice
-some algorithm the interviewer ask me to write during the interview
+算法练习题
 
 ## backtrack
 1、组合问题 Zuhe.java

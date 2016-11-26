@@ -8,3 +8,7 @@
 
 2、排列问题 Pailie.java
     输入字符串abc 输出其全排列：abc acb bac bca cba cab
+
+## 位运算
+
+3、判断一个数是否为2的乘方。
